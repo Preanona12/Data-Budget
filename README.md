@@ -87,4 +87,4 @@ The idea, feature requests, direction and all real-phone testing came from the r
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Replace `<YOUR NAME>` in that file with your name before publishing.
+MIT. See [LICENSE](LICENSE). Replace `Pre_anona` in that file with your name before publishing.
